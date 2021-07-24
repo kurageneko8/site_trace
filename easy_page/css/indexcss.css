@@ -1,0 +1,48 @@
+body {
+    font-size: 12px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+h1 {
+    color: white;
+    font-size: 20px;
+    padding: 3px;
+    text-align: center;
+    background-color: #002299;
+}
+h2 {
+    color: white;
+    font-size: 18px;
+    padding: 3px;
+    padding-left: 10px;
+    background-color: #002299;
+}
+table {
+    margin-top: 10px;
+    margin-left: 10px;
+    border-collapse: collapse;
+}
+td {
+    text-align: center;
+    border:solid 2px;
+    border-color: #666666;
+    padding: 3px;
+    font-size: 16px;
+}
+
+p {
+    text-indent: 1em;
+    font-size: 0.9rem;
+}
+
+a {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+/* 
+do not exist
+h3
+th
+*/
