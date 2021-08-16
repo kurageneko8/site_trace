@@ -1,0 +1,25 @@
+@media (max-width: 767.98px) {
+    body {
+        margin: 0;
+        padding: 0;
+    }
+
+    .top {
+        background-image: url(img/mv_03_bg_sp.png);
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 100%;
+    }
+
+    .top-chara {
+        background-image: url(img/mv_03_chara_sp.png);
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 100%;
+        opacity: 1;
+    }
+}
